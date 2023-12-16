@@ -1,0 +1,6 @@
+{
+  "ignore": ["node_modules", "dist"],
+  "watch": ["commands", "src"],
+  "exec": "tsc && node dist/app",
+  "ext": "ts"
+}
